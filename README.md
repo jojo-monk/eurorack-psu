@@ -81,6 +81,14 @@ The interactive Bill of Materials is available online:
 
 **[🔧 Open Interactive BOM](https://jojo-monk.github.io/eurorack-psu/ibom.html)**
 
+
+## Project status
+
+**Built, tested and fully functional.**
+
+The power supply has been successfully assembled, tested and validated in operation. All three output rails (**+12 V, -12 V and +5 V**) have been tested and the power supply is fully operational in a Eurorack system.
+>>>>>>> Stashed changes
+
 ## Safety
 
 > [!WARNING]
