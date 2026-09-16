@@ -75,6 +75,12 @@ The PCB was designed using **KiCad**.
 
 The repository contains the design files and manufacturing data for the power supply.
 
+## Interactive BOM
+
+The interactive Bill of Materials is available online:
+
+**[🔧 Open Interactive BOM](https://jojo-monk.github.io/eurorack-psu/ibom.html)**
+
 ## Safety
 
 > [!WARNING]
