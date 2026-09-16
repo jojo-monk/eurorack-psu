@@ -1,6 +1,7 @@
 *-backups/
 _autosave-*
 fp-info-cache
+.DS_Store
 *.bak
 *.000
 *.bck
